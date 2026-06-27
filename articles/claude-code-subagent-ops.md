@@ -1,5 +1,5 @@
 ---
-title: "Claude Codeで「本体は会話に常駐・実作業は全部分身」運用を続けて分かったこと — Opus/Sonnet使い分けとrun_in_background"
+title: "Claude Codeで「会話は本体・実作業は全部分身」運用で分かったこと — Opus/Sonnet使い分け"
 emoji: "🪞"
 type: "tech"
 topics: ["claudecode", "ai", "llm", "個人開発", "agent"]
