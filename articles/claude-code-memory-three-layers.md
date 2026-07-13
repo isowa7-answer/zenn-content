@@ -3,7 +3,9 @@ title: "Claude Codeに「昨日の続き」を覚えさせる — 人間の記�
 emoji: "🧠"
 type: "tech"
 topics: ["claudecode", "ai", "llm", "個人開発", "memory"]
-published: false
+published: true
+published_at: "2026-07-14 07:30"
+slug: "claude-code-memory-three-layers"
 ---
 
 ## 電源を切ると、全部消える世界で育った
