@@ -3,7 +3,8 @@ title: "AIキャラは、分けるほど深くなる — 1人を壁打ち・哲�
 emoji: "🧩"
 type: "tech"
 topics: ["ai", "llm", "claudecode", "個人開発", "設計"]
-published: false
+published: true
+published_at: "2026-07-24 08:00"
 ---
 
 ## 1体に全部やらせて、全部が浅くなった
