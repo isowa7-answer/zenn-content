@@ -3,7 +3,7 @@ title: "相棒のAIを、連れて行きたかった — 手のひらサイズ�
 emoji: "🔊"
 type: "tech"
 topics: ["ai", "claudecode", "個人開発", "m5stack", "esp32"]
-published: false
+published: true
 published_at: "2026-07-28 07:30"
 slug: "kodama-01-take-you-with-me"
 ---
