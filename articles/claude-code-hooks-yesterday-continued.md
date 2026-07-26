@@ -3,7 +3,8 @@ title: "Claude Code の hook で「昨日の続き」から始める — Session
 emoji: "🪝"
 type: "tech"
 topics: ["claudecode", "ai", "個人開発", "powershell", "自動化"]
-published: false
+published: true
+published_at: "2026-07-31 07:30"
 ---
 
 ## 毎朝、相棒が「初めまして」に戻る
