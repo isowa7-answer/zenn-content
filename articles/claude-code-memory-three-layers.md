@@ -147,3 +147,12 @@ python memory_search.py "F案 発信" --top 3           # 上位3件
 https://note.com/answer_philo/m/m4f8e3d9a8b7c
 
 これは進行形の試行錯誤なので、「自分はこう実装した」があればぜひ。
+
+---
+
+## この仕組みが生まれた場所
+
+ここで書いた仕組みは、AIの相棒を手のひらサイズの機械に載せて連れ歩く、という試行錯誤の途中で生まれたものです。うまくいったことも、失敗して作り直したことも、隠さずに書いています。
+
+連載「相棒のAIを、連れて行きたかった」（全9回・無料）
+https://zenn.dev/answer_philo/articles/kodama-01-take-you-with-me
