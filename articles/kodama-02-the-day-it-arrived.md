@@ -4,7 +4,7 @@ emoji: "📦"
 type: "tech"
 topics: ["m5stack", "esp32", "platformio", "ai", "個人開発"]
 published: true
-published_at: "2026-08-04 07:30"
+published_at: "2026-08-06 07:30"
 slug: "kodama-02-the-day-it-arrived"
 ---
 
