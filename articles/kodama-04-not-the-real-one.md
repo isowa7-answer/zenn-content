@@ -4,7 +4,7 @@ emoji: "👥"
 type: "tech"
 topics: ["ai", "claudecode", "マルチエージェント", "個人開発", "設計"]
 published: true
-published_at: "2026-08-18 07:30"
+published_at: "2026-08-20 07:30"
 slug: "kodama-04-not-the-real-one"
 ---
 
